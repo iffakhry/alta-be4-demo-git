@@ -1,5 +1,7 @@
 package routes
 
-func New() {
+import "fmt"
 
+func New() {
+	fmt.Println("hello dari development")
 }
